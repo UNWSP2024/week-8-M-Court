@@ -1,4 +1,5 @@
 #2: WORD SEPARATOR
+
 #Write a program that accepts as input 
 	#	a sentence in which all of the words are run together, 
 	#	but the first character of each word is uppercase. 
